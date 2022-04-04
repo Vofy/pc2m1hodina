@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1644317181 source:v:\projekty\vicerozmerna_pole\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
